@@ -1,5 +1,7 @@
 # KnitTick
 
+[English](./README.md) | [日本語](./README_jp.md)
+
 ## Description
 
 KnitTick is an application that helps knitters to track their row count. It simplifies the knitting process by keeping count of your rows, so you can focus on your stitches. The application is simple, efficient, and designed with knitters in mind.

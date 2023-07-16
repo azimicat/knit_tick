@@ -1,5 +1,7 @@
 # KnitTick
 
+[English](./README.md) | [日本語](./README_jp.md)
+
 ## 説明
 
 KnitTickは、編み物をする方々の段数カウントを助けるアプリケーションです。
